@@ -1,0 +1,14 @@
+1647232262289	geckodriver	INFO	Listening on 127.0.0.1:51390
+1647232265323	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51391" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileADG4xz"
+1647232266131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileADG4xz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51391/devtools/browser/970ed22f-4291-4a4b-b453-211b4a7fcaf7
+1647232268837	Marionette	INFO	Listening on port 51396
+1647232269085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647232330490	Marionette	INFO	Stopped listening on port 51396
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

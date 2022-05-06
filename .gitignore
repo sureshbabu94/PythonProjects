@@ -1,0 +1,7 @@
+venv/
+assets/
+.idea/
+report.html
+.pytest_cache/
+scr/
+latest_logs/

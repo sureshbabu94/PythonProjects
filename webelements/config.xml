@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parent>This is parent
+    <child>This is child
+        <subchild1 name="browser">chrome</subchild1>
+        <subchild2 name="designation">Technical Engineer</subchild2>
+    </child>
+</parent>

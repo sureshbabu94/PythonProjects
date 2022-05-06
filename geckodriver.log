@@ -1,0 +1,142 @@
+1646289124162	geckodriver	INFO	Listening on 127.0.0.1:65084
+1646289127176	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65085" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofilehikDOY"
+1646289127540	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofilehikDOY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65085/devtools/browser/071d9f2f-ada7-4cdd-bc2a-d3bf5fcd5b65
+1646289130128	Marionette	INFO	Listening on port 65090
+1646289130355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646289160049	Marionette	INFO	Stopped listening on port 65090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1646289640803	geckodriver	INFO	Listening on 127.0.0.1:65510
+1646289643865	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65511" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofilelmCc4W"
+1646289675278	geckodriver	INFO	Listening on 127.0.0.1:49262
+1646289678334	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49263" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileNt1U8o"
+1646289678667	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileNt1U8o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49263/devtools/browser/99c60647-a50a-4714-a0eb-b3458639c53c
+1646289680893	Marionette	INFO	Listening on port 49270
+1646289681064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1646289708604	Marionette	INFO	Stopped listening on port 49270
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646291526415	geckodriver	INFO	Listening on 127.0.0.1:50879
+1646291529469	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50880" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileEOV4jg"
+1646291530003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileEOV4jg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50880/devtools/browser/0051a1fa-2e44-4b47-8c6c-973121b2f357
+1646291532636	Marionette	INFO	Listening on port 50887
+1646291532725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1646291560808	Marionette	INFO	Stopped listening on port 50887
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646715205693	geckodriver	INFO	Listening on 127.0.0.1:63243
+1646715208712	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63244" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofilej3Q7mH"
+1646715210069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofilej3Q7mH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63244/devtools/browser/5d7e2515-b80c-41b3-bac0-ff0541dba5de
+1646715213292	Marionette	INFO	Listening on port 63249
+1646715213623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646715246671	Marionette	INFO	Stopped listening on port 63249
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646718482682	geckodriver	INFO	Listening on 127.0.0.1:51872
+1646718485756	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51873" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofile8YhQGm"
+1646718486491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofile8YhQGm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51873/devtools/browser/1ec6ee09-930f-46ec-89e8-c8da7ae4fb62
+1646718489257	Marionette	INFO	Listening on port 51879
+1646718489485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1646718517266	Marionette	INFO	Stopped listening on port 51879
+1646723020824	geckodriver	INFO	Listening on 127.0.0.1:53308
+1646723023879	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53309" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofilezn0eoP"
+1646723024687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofilezn0eoP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53309/devtools/browser/8a53c017-0fdf-4a0f-b0c1-b21b1a4eaa8c
+1646723027240	Marionette	INFO	Listening on port 53314
+1646723027627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646723056988	Marionette	INFO	Stopped listening on port 53314
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646974757483	geckodriver	INFO	Listening on 127.0.0.1:52476
+1646974760526	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52477" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileQj3c34"
+1646974761622	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileQj3c34\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52477/devtools/browser/db33842c-5407-4297-919d-7cafb89e4435
+1646974764210	Marionette	INFO	Listening on port 52482
+1646974764394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646974794149	Marionette	INFO	Stopped listening on port 52482
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1647232440371	geckodriver	INFO	Listening on 127.0.0.1:51501
+1647232443399	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51502" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileaRE3jz"
+1647232443729	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileaRE3jz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51502/devtools/browser/b4397c74-7931-442a-a637-1b327a53a1e4
+1647232445562	Marionette	INFO	Listening on port 51507
+1647232445626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1647232472737	Marionette	INFO	Stopped listening on port 51507
+1647232488028	geckodriver	INFO	Listening on 127.0.0.1:51624
+1647232491075	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51625" "-no-remote" "-profile" "C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileZxAEUE"
+1647232491394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\10872\\AppData\\Local\\Temp\\rust_mozprofileZxAEUE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51625/devtools/browser/8b2bc4e9-728c-4f27-b82b-7d2b0b362948
+1647232493363	Marionette	INFO	Listening on port 51631
+1647232493759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.flipkart.com"
+1647232520407	Marionette	INFO	Stopped listening on port 51631
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

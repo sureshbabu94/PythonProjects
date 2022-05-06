@@ -5,4 +5,3 @@ subprocess.call([r'C:\PythonProjects\test.bat'])
 #Change code
 
 #commit from pycharm2
-#After resetting and merging local to remote

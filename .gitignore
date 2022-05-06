@@ -5,4 +5,4 @@ report.html
 .pytest_cache/
 scr/
 latest_logs/
-allureresults/
+allreresults/
